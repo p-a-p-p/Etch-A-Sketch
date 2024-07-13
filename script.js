@@ -1,5 +1,5 @@
 let num;
-let size;
+let size = 16;
 
 function createGrid(num) {
   const container = document.querySelector(".container");
